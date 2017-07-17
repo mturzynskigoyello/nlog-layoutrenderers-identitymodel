@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>IdentityModel layout renderers for NLog</title>
+    <authors>Mateusz Turzyński</authors>
+    <owners>Mateusz Turzyński</owners>
+    <licenseUrl>https://github.com/mturzynskigoyello/nlog-layoutrenderers-identitymodel/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mturzynskigoyello/nlog-layoutrenderers-identitymodel</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>IdentityModel related layout renderers for NLog</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>NLog Claims</tags>
+  </metadata>
+</package>
